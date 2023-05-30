@@ -1,7 +1,7 @@
 # Ulkiges Deutsch
 ES IST SEHR ULKIG
 
-##Begriffe:
+## Begriffe:
 - Stinksauer
 - Eingeschnappt
 - Kupferstecher
@@ -14,7 +14,7 @@ ES IST SEHR ULKIG
 - starket Tobak
 - Flitzpiepe
 
-##Phrasen:
+## Phrasen:
 - Da platzt mir (allmählich) der Kragen
 - Da wird der Hund in der Pfanne verrückt
 - Fuchs-Teufels-Wild
