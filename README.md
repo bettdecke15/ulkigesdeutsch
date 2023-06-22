@@ -1,5 +1,6 @@
 # Ulkiges Deutsch
 ES IST SEHR ULKIG
+!!Auslöserwarnung - ULKIG !!
 
 ## Begriffe:
 - Stinksauer
@@ -13,6 +14,12 @@ ES IST SEHR ULKIG
 - Heiliger Strohsack
 - starket Tobak
 - Flitzpiepe
+- Donnerlüttchen
+- Töricht
+- Pappnase
+- Schlitzohr
+- Tausensasser
+- das langt
 
 ## Phrasen:
 - Da platzt mir (allmählich) der Kragen
@@ -29,3 +36,9 @@ ES IST SEHR ULKIG
 - Zapalott nochmal / noch eins
 - Lügen haben kurze Beine
 - Die Kirche im Dorf lassen
+- Das ist ja Harakiri
+- Steter Tropfen höhlt den Stein
+- Mach mal halb lang
+- Hast du mal auf den Tacho geguckt?
+- ich hab die faxen dicke
+- was zum Klaubautermann?
