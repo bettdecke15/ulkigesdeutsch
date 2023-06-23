@@ -13,6 +13,7 @@ ES IST SEHR ULKIG
 - Heiliger Strohsack
 - starket Tobak
 - Flitzpiepe
+- Ein kühles Blondes
 
 ## Phrasen:
 - Da platzt mir (allmählich) der Kragen
